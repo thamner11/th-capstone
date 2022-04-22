@@ -1,0 +1,10 @@
+User ID,First Name,Last Name,Phone Number,Email,Password,Active,Date Created,Hire Date,User Type
+1,Billy,Bob,2395552621,billybob@gmail.com,1234,,2022-04-19,2022-04-19,No
+2,Tanya,Hamner,307-679-8749,thamner@dreamteam.com,b'$2b$12$ES1uoYBXuQxWTfvdwWlVBOv0M0T6LoOaJbxLoeluDyLTiASOWRC5G',,04-19-2022,04-01-2022,Yes
+3,Elle,Laulu,265-098-7897,elle@dreamteam.com,b'$2b$12$yL1EyGBLCvjJLoCD62LcmemW/fb0daD75dZ5bZ87dLhcRASiDjw2O',,04-19-2022,03-01-2022,Yes
+4,Amee,Brisk,307-879-0987,amee@dreamteam.com,b'$2b$12$mq3FzmagUFnqWZyiUsGCL.SKHsUoGDTyoXJ9nEIRuecQwyEl07MM6',,03-25-2022,03-01-2022,Yes
+5,Sarah,Roy,307-897-9876,sarah@dreamteam.com,b'$2b$12$Wsu6kP1BW6ByrAWhaBqw5ui.Ue15FzGjSzMEdtmLtdXzNGXk3LxGO',,03-20-2022,03-01-2022,Yes
+6,Mocha,Cagge,307-876-9876,mcaffe@gmail.com,b'$2b$12$pDaWckc.2MSVtiNyiMHDreTFO585qFrgnc.ijhqc3QKgCV907TZVW',,04-20-198,03-22-2022,NO
+7,Espresso,Caffe,307-768-9876,espresso@caffe.com,b'$2b$12$.X9XJpqQbKkH7HTPJxdkT.ULJsCKdw1t7MApUPxIYZyee.iGB/C1.',,03-20-2022,03-01-2022,No
+8,Chia,Caffe,308-987-9876,chia@caffe.com,b'$2b$12$JJoA0aXer7xk7.7JVbp09.lEHbBfhUK.VJuXJ5FHTncQv7BiugAh6',,04-17-2022,04-01-2022,No
+9,Folgers,Caffe,307-675-9876,folgers@caffe.com,b'$2b$12$9u6oGHEtuKhBSrZpZ8ErNu6OK7KvwS35AxfpIh2wq2lMUFKb6lvam',,03-20-2022,03-01-2022,Yes
